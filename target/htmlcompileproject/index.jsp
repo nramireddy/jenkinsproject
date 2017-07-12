@@ -8,11 +8,11 @@
 .myTable { 
   width: 100%;
   text-align: left;
-  background-color: lemonchiffon;
+  background-color: blue;
   border-collapse: collapse; 
   }
 .myTable th { 
-  background-color: goldenrod;
+  background-color: red;
   color: white; 
   }
 .myTable td, 
